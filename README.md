@@ -6,6 +6,8 @@
 	- General development
 - https://www.jetbrains.com/lp/php-annotated/
 	- Everything PHP and PhpStorm
+- https://thoughtworks.com/radar#subscribe
+	- Just everything
 - https://www.phpweekly.com/
 	- Everything PHP
 - https://offbynone.io/
